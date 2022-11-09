@@ -1,0 +1,10 @@
+Angular JS
+	- Module
+	- Controller
+	- Directive
+	   ng-app
+	   ng-controller
+	   ng-model	 -  specify the data
+	   ng-bind   -  display the data
+	   ng-click  - use the button tag
+
